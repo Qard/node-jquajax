@@ -1,0 +1,15 @@
+{
+  "author": "Stephen Belanger <admin@stephenbelanger.com> (http://stephenbelanger.com)",
+  "name": "jquajax",
+  "description": "Provides the functionality of jQuery.ajax without needing to use jQuery in jsdom.",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Qard/node-jquajax.git"
+  },
+  "engines": {
+    "node": "~v0.4.9"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
